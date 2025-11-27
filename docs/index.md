@@ -15,10 +15,10 @@ Bagian ini mendefinisikan versi paling sederhana dari game yang bisa dimainkan.
 
 ### Persyaratan MVP
 *Daftar fitur wajib agar game bisa dimainkan:*
--   [ ] [Fitur Utama 1: misal, Input Pemain]
--   [ ] [Fitur Utama 2: misal, Logika Musuh Sederhana]
--   [ ] [Fitur Utama 3: misal, Sistem Skor]
--   [ ] [Fitur Utama 4: misal, Tampilan Visual Dasar]
+-   [ ]  [Fitur Utama 1: misal, Input Pemain]
+-   [ ]  [Fitur Utama 2: misal, Logika Musuh Sederhana]
+-   [ ]  [Fitur Utama 3: misal, Sistem Skor]
+-   [ ]  [Fitur Utama 4: misal, Tampilan Visual Dasar]
 
 ## 3. Fitur Lengkap
 

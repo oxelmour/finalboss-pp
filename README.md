@@ -1,2 +1,2 @@
 # finalboss-pp
-ini game
+ini game dibuat sama Rima
